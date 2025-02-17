@@ -4,7 +4,7 @@
 	src:url('../fonts/themify.eot#iefix-fvbane') format('embedded-opentype'),
 		url('../fonts/themify.woff') format('woff'),
 		url('../fonts/themify.ttf') format('truetype'),
-		url('../images/themify.svg#themify') format('svg');
+		url('../images/themify.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
